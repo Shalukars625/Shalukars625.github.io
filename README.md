@@ -17,9 +17,9 @@ shaluka-website/
 
 Open `index.html` in any text editor and update:
 
-- **Your email** → search for `your.email@okstate.edu`
-- **GitHub URL** → search for `github.com/yourusername`
-- **LinkedIn URL** → search for `linkedin.com/in/yourusername`
+- **Your email** → search for `shaluka.senevirathna@okstate.edu`
+- **GitHub URL** → search for `github.com/Shalukars625`
+- **LinkedIn URL** → search for `linkedin.com/in/shaluka-senevirathna/`
 - **Publications** → find the `<!-- RESEARCH -->` section, replace the placeholder entry
 - **CV file** → drop your `cv.pdf` into the project folder
 - **Photo** → optional, add an `<img>` tag in the About section
