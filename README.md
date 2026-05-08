@@ -1,4 +1,4 @@
-# Shaluka Karunarathna — Personal Academic Website
+# Shaluka Senevirathna — Personal Academic Website
 
 Clean, minimal academic personal site. Built with pure HTML, CSS, and vanilla JS. No frameworks, no build tools, no dependencies.
 
